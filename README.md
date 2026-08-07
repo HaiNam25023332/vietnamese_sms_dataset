@@ -77,8 +77,6 @@ Nếu bộ dữ liệu này hỗ trợ cho công trình nghiên cứu hoặc s�
 
 
 ---
----
----
 
 # Vietnamese Quality-Assured SMS Scam Dataset (Official Release)
 
