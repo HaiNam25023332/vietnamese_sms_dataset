@@ -1,39 +1,3 @@
----
-language:
-- vi
-license: cc-by-4.0
-size_categories:
-- 1K<n<10K
-task_categories:
-- text-classification
-tags:
-- vietnamese
-- sms-spam
-- phishing
-- cybersecurity
-- nlp
-pretty_name: Quality-Assured Vietnamese SMS Phishing Dataset (Official Release)
-dataset_info:
-- config_name: default
-  data_files:
-  - split: full
-    path: full_dataset.csv
-  - split: train
-    path: train.csv
-  - split: test
-    path: test.csv
-configs:
-- config_name: default
-  data_files:
-  - split: full
-    path: full_dataset.csv
-  - split: train
-    path: train.csv
-  - split: test
-    path: test.csv
-  default: true
----
-
 # Bộ dữ liệu SMS lừa đảo tiếng Việt được đảm bảo chất lượng (Official Release)
 *(English Below)*
 
